@@ -3,7 +3,7 @@ using RabbitMQ.Client;
 
 namespace MessageBrokerDemo;
 
-class Program
+public class Program
 {
     public static void Main()
     {
